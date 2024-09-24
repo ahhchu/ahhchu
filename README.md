@@ -3,7 +3,7 @@ I'm a senior at the University of Georgia, majoring in Computer Science. I have 
 
 # Socials
 <div id="badges">
-  <a href="www.linkedin.com/in/catherine-chu-a1b2c">
+  <a href="https://www.linkedin.com/in/catherine-chu-a1b2c/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@catchuuu2103">
