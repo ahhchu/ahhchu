@@ -1,5 +1,5 @@
 ## Hi Hi! My name is Catherine.
-I'm a senior at the University of Georgia, majoring in Computer Science. I have practical experience in full stack development, working across the front-end, back-end, and database layers. My current interests lie in data engineering and data science, where I'm eager to apply my skills in building and analyzing data-driven solutions.
+I'm a senior at the University of Georgia, majoring in Computer Science. I have experience in full stack development, working across the front-end, back-end, and database layers. My current interests lie in data engineering and data science, where I'm eager to apply my skills in building and analyzing data-driven solutions.
 
 # Socials
 <div id="badges">
